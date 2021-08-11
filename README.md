@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChorniyR
+- 👋 Hi, I’m Roman Kozyrev
 - 👀 I’m interested in programming with Python 
 - 🌱 I’m currently learning Django/REST framework
 - 📫 How to reach me: pomak803@gmail.com
