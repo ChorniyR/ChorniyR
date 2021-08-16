@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman Kozyrev
 - 👀 I’m interested in programming with Python 
-- 🌱 I’m currently learning Django/REST framework
+- 🌱 I’m currently learning Django/REST framework, vue 3
 - 📫 How to reach me: pomak803@gmail.com
 
 <!---
